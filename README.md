@@ -1,2 +1,2 @@
-# Aufa-Biahdillah_Project2
-This is my second project from Computer Vision Bootcamp at Indonesia AI about person recognition.
+# Object Detection - Person Tracking
+This is my second project from Computer Vision Bootcamp at Indonesia AI, which is about object detection. In this project, I was involved in a group project about person tracking, where I achieved a task to experiment with faster RCNN. The dataset that we used is from the COCO dataset, which consists of many images with many objects. Since we aim to detect persons in an image, we filter the dataset into those containing persons.
